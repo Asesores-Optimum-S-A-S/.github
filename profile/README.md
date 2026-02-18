@@ -10,7 +10,7 @@ Financial infrastructure built for traders, developers, and analysts who need re
 
 ## About
 
-**Asesores Optimum S.A.S.**, Medellín, Colombia.
+**Asesores Optimum S.A.S.**, Medellín, Colombia.  
 Building infrastructure designed to run reliably for years — not just today.
 
 - 🌐 [asesoresoptimum.com](https://asesoresoptimum.com)
