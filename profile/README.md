@@ -1,12 +1,17 @@
-## Hi there 👋
+# Asesores Optimum
 
-<!--
+Financial infrastructure built for traders, developers, and analysts who need reliable data.
 
-**Here are some ideas to get you started:**
+## Open Source Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Project | Description | Status |
+|---------|-------------|--------|
+| [quantitative-scraper](https://github.com/AsesoresOptimum/quantitative-scraper) | Multi-provider financial market data with intelligent failover | [![Release](https://img.shields.io/github/v/release/AsesoresOptimum/quantitative-scraper)](https://github.com/AsesoresOptimum/quantitative-scraper/releases) |
+
+## About
+
+**Asesores Optimum S.A.S.**, Medellín, Colombia.
+Building infrastructure designed to run reliably for years — not just today.
+
+- 🌐 [asesoresoptimum.com](https://asesoresoptimum.com)
+- 📧 support@asesoresoptimum.com
